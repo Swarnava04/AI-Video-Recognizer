@@ -1,0 +1,47 @@
+{
+  "chunks": [
+    {
+      "number": "02",
+      "title": "Video_2",
+      "start": 0.0,
+      "end": 9.040000000000001,
+      "text": " So let's say today the first topic that I'm going to discuss on is the fact that I'm working on this project that is using Rack Setup."
+    },
+    {
+      "number": "02",
+      "title": "Video_2",
+      "start": 9.44,
+      "end": 14.32,
+      "text": " Now Rack Setup is something interesting and the Rack stands for Retrieval Augmented Model."
+    },
+    {
+      "number": "02",
+      "title": "Video_2",
+      "start": 14.86,
+      "end": 21.92,
+      "text": " So what it does is that it fetches the data for all the documents that we are providing and then it feeds to the LLM."
+    },
+    {
+      "number": "02",
+      "title": "Video_2",
+      "start": 22.48,
+      "end": 26.64,
+      "text": " That based on that refined data that we are providing it gives us the results."
+    },
+    {
+      "number": "02",
+      "title": "Video_2",
+      "start": 26.64,
+      "end": 29.560000000000002,
+      "text": " This is what the concept of Rack Model is."
+    },
+    {
+      "number": "02",
+      "title": "Video_2",
+      "start": 29.56,
+      "end": 31.56,
+      "text": " Thank you."
+    }
+  ],
+  "text": " So let's say today the first topic that I'm going to discuss on is the fact that I'm working on this project that is using Rack Setup. Now Rack Setup is something interesting and the Rack stands for Retrieval Augmented Model. So what it does is that it fetches the data for all the documents that we are providing and then it feeds to the LLM. That based on that refined data that we are providing it gives us the results. This is what the concept of Rack Model is. Thank you."
+}

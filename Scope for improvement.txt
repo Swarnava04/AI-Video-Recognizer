@@ -1,0 +1,31 @@
+
+
+
+
+
+Part 1
+Add automatic rebuild if new JSON files appear
+Store metadata separately from embeddings (better scaling design)
+Add embedding normalization at storage time (recommended)
+Or move to full RAG answer generation
+
+Part 2
+Add LLM answer generation on top
+Add evaluation metrics
+Add caching for embeddings
+Benchmark cosine vs FAISS speed
+Build a simple CLI tool
+Turn this into a FastAPI service
+
+
+
+
+⭐ Small Enhancements (If You Ever Revisit)
+
+Not necessary now, but common upgrades:
+
+1️⃣ Chunk overlap
+2️⃣ Embedding normalization at storage time
+3️⃣ Re-ranking step
+4️⃣ Hybrid search (BM25 + embeddings)
+5️⃣ Streaming LLM responses

@@ -1,0 +1,47 @@
+{
+  "chunks": [
+    {
+      "number": "04",
+      "title": "Video_4",
+      "start": 0.0,
+      "end": 7.3,
+      "text": " Now carrying on this agentic AI topic, it goes mainly through the PRAIL loop."
+    },
+    {
+      "number": "04",
+      "title": "Video_4",
+      "start": 7.66,
+      "end": 12.86,
+      "text": " What is this PRAIL loop? One is the PERCEIVE, then there is REASONING, then there is ACT,"
+    },
+    {
+      "number": "04",
+      "title": "Video_4",
+      "start": 13.0,
+      "end": 19.66,
+      "text": " then there is LEARN. These three steps all goes through a LLM window. Now the LLM window basically"
+    },
+    {
+      "number": "04",
+      "title": "Video_4",
+      "start": 19.66,
+      "end": 25.52,
+      "text": " first gets the information which is the PERCEIVE stage, then it reasons and it goes through the"
+    },
+    {
+      "number": "04",
+      "title": "Video_4",
+      "start": 25.52,
+      "end": 31.84,
+      "text": " brain that is the LLM model activation period and then after everything is done it acts and"
+    },
+    {
+      "number": "04",
+      "title": "Video_4",
+      "start": 31.84,
+      "end": 34.5,
+      "text": " then it learns for future better steps. Thank you."
+    }
+  ],
+  "text": " Now carrying on this agentic AI topic, it goes mainly through the PRAIL loop. What is this PRAIL loop? One is the PERCEIVE, then there is REASONING, then there is ACT, then there is LEARN. These three steps all goes through a LLM window. Now the LLM window basically first gets the information which is the PERCEIVE stage, then it reasons and it goes through the brain that is the LLM model activation period and then after everything is done it acts and then it learns for future better steps. Thank you."
+}

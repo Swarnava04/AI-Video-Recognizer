@@ -1,0 +1,106 @@
+{
+    "text": " Guys, so I'm going to I'm creating a project for mine. So what I have decided is that I will be creating a 30 not 30 I will be creating a 30 second to 1 minute 10 videos and this will be my intro video Thank you",
+    "segments": 
+    [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 7.32,
+            "text": " Guys, so I'm going to I'm creating a project for mine. So what I have decided is that I will be creating a 30 not 30",
+            "tokens": 
+            [
+                50365,
+                7855,
+                11,
+                370,
+                286,
+                478,
+                516,
+                281,
+                286,
+                478,
+                4084,
+                257,
+                1716,
+                337,
+                3892,
+                13,
+                407,
+                437,
+                286,
+                362,
+                3047,
+                307,
+                300,
+                286,
+                486,
+                312,
+                4084,
+                257,
+                2217,
+                406,
+                2217,
+                50731
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.25122330106537916,
+            "compression_ratio": 1.5401459854014599,
+            "no_speech_prob": 0.06820397824048996
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.32,
+            "end": 13.74,
+            "text": " I will be creating a 30 second to 1 minute 10 videos and this will be my intro video",
+            "tokens": 
+            [
+                50731,
+                286,
+                486,
+                312,
+                4084,
+                257,
+                2217,
+                1150,
+                281,
+                502,
+                3456,
+                1266,
+                2145,
+                293,
+                341,
+                486,
+                312,
+                452,
+                12897,
+                960,
+                51052
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.25122330106537916,
+            "compression_ratio": 1.5401459854014599,
+            "no_speech_prob": 0.06820397824048996
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 14.48,
+            "end": 16.48,
+            "text": " Thank you",
+            "tokens": 
+            [
+                51089,
+                1044,
+                291,
+                51189
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.25122330106537916,
+            "compression_ratio": 1.5401459854014599,
+            "no_speech_prob": 0.06820397824048996
+        }
+    ],
+    "language": "en"
+}

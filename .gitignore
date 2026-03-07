@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+#  Dataframe and embeddings cache
+*.joblib
+*.pkl
+
+#  Faiss index
+*.index
+
+#Environment
+.env
+venv/
