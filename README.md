@@ -90,6 +90,10 @@ Answer Generation (llama3)
 
 ---
 
+# Architectural Drawing
+ 
+ ![alt text](image.png)
+
 # Tech Stack
 
 * Python
